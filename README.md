@@ -1,4 +1,2 @@
 # text0
-这是测试
-启动
-重新启动
+  This is a text
